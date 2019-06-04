@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cobertura-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cucumber-reporting-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/junit-jupiter-api-5.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java/selenium java/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Java/selenium java/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Java/cucumber/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
